@@ -1,5 +1,24 @@
-.color {
+.color-grigio {
     height: 100px;
-    background-color: red;
-    border: 1px solid white;
+    background-color: #bcbcbc;
+}
+
+.color-nero {
+    height: 100px;
+    background-color: black;
+}
+
+.color-rosso {
+    height: 100px;
+    background-color: #e61623;
+}
+
+.color-rossoscuro {
+    height: 100px;
+    background-color: #9f1916;
+}
+
+.color-rossochiaro {
+    height: 100px;
+    background-color: #ef7477;
 }
